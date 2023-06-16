@@ -8,7 +8,7 @@ public class Main {
         int spices = 10; // ложек специй
         System.out.println("сварили суп. На одного человека вышло:");
     System.out.println((water / eaters) + "миллилитров(а) воды");
-    System.out.println((картофель / едоки) + "картофелин(а/ы)");
+    System.out.println((potatoes /eaters) + "картофелин(а/ы)");
     System.out.println((chicken / eaters) + "куриных(ое) бёдер(ро)");
     System.out.println((spices / eaters) + "ложек(ки/ка) специй)");
 
